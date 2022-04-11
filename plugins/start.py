@@ -13,9 +13,9 @@ async def start(client,message):
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup([[
           InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/Mo_Tech_Group"), 
-	  InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/MoTech_YT")
+	  InlineKeyboardButton("follow 🧐", url="https://Instagram.com/_ajin_solo__")
           ],[
-          InlineKeyboardButton("🧩 Deploy 🧩", url="https://youtu.be/7ALYUk-rYMc")
+          InlineKeyboardButton("🧩 Deploy 🧩", url="-_-_-_-")
           ]]
           )
         )
